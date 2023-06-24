@@ -3,5 +3,13 @@
 }
 
 .react-transform-component {
-  border-radius: 8px !important;
+	border-radius: 8px !important;
+}
+
+.main {
+	height: calc(100vh - 40px);
+}
+
+.button {
+  @apply rounded-lg text-[white] px-[10px] py-[5px] bg-[#29AAE1] hover:brightness-[1.1]
 }
