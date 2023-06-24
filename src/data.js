@@ -17,7 +17,7 @@ export const thumbnails = [
 		id: uuid(),
 		image: "https://app.popstack.ai/thumbnails/996a9e5f-cf30-4b5b-9ff6-7cd7f6bc749f.png",
         x: 800 , 
-        y: 800
+        y: 250
 	},
 	{
 		id: uuid(),
