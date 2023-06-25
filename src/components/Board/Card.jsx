@@ -28,6 +28,7 @@ const Card = ({ card }) => {
 							height: height,
 							width: width,
 							transform: `scale(${scale.x}, ${scale.y})`,
+							transformOrigin: "left top",
 						}}
 						src={card.image}
 						alt={card.id}
