@@ -1,5 +1,6 @@
 .react-transform-wrapper {
 	border-radius: 8px !important;
+	position: relative;
 }
 
 .react-transform-component {
@@ -11,5 +12,5 @@
 }
 
 .button {
-  @apply rounded-lg text-[white] px-[10px] py-[5px] bg-[#29AAE1] hover:brightness-[1.1]
+	@apply rounded-lg text-[white] px-[10px] py-[5px] bg-[#29AAE1] hover:brightness-[1.1];
 }
